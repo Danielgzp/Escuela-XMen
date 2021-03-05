@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605710318 source:c:\users\daniel\desktop\programas chimbos mios\ejercicios evaluados\segunda asignacion(estructuras)\main.cpp
+	"XMen.h"
+	<iostream>
+	<conio.h>
+
+1605707954 source:c:\users\daniel\desktop\programas chimbos mios\ejercicios evaluados\segunda asignacion(estructuras)\archivo de codigo.cpp
+	"XMen.h"
+	<iostream>
+
+1605710318 c:\users\daniel\desktop\programas chimbos mios\ejercicios evaluados\segunda asignacion(estructuras)\xmen.h
+	<string>
+

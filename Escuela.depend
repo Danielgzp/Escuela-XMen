@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605697529 source:e:\respaldo 12.12.2019\universidad juan\programas\programas ii semestre\escuela\main.cpp
+	<iostream>
+	"Datos.h"
+	<conio.h>
+
+1605698499 source:e:\respaldo 12.12.2019\universidad juan\programas\programas ii semestre\escuela\datos.cpp
+	"Datos.h"
+	<iostream>
+	<string>
+
+1605695031 e:\respaldo 12.12.2019\universidad juan\programas\programas ii semestre\escuela\datos.h
+	<iostream>
+	<string>
+

@@ -13,3 +13,17 @@
 	<iostream>
 	<string>
 
+1605698499 source:c:\users\original\repositorios\xmen(j)\datos.cpp
+	"Datos.h"
+	<iostream>
+	<string>
+
+1605695031 c:\users\original\repositorios\xmen(j)\datos.h
+	<iostream>
+	<string>
+
+1614913459 source:c:\users\original\repositorios\xmen(j)\main.cpp
+	<iostream>
+	"Datos.h"
+	<conio.h>
+

@@ -28,8 +28,8 @@ void Datos::PedirRegistrar_Datos(){
             cout << "\n\nREGISTRAR ESTUDIANTES:\n\n";
         do {
             cout << "\nNombre del estudiante: ";
-            getline(cin,pedir.nombreReal);
-        } while (pedir.nombreReal.length()==0);
+            getline(cin, pedir.nombreReal);
+        } while (pedir.nombreReal.length() < 2);
         do {
             cout << "Alias:";
             getline(cin,pedir.alias);
@@ -37,6 +37,7 @@ void Datos::PedirRegistrar_Datos(){
         do {
             cout << "Sexo (F/M): ";
             cin >> pedir.sexo;
+
                 if (pedir.sexo != 'F' && pedir.sexo != 'M' && pedir.sexo != 'f' && pedir.sexo != 'm')
                     cout << "ERROR: Tipo de sexo invalido. Solo 'S' o 'N'";
 
